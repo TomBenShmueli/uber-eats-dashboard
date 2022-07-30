@@ -1,4 +1,4 @@
-#Uber Eats Restaurant Dashboard Clone
+## Uber Eats Restaurant Dashboard Clone
 
 This project is a clone of Uber Eat's restaurant interface. This interactive interface allows the user to browse current and previous orders, add/remove dishes from the restaurant's menu, and edit the resturant name and location using Google's Places API.
 
